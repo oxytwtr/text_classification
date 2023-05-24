@@ -1,0 +1,12 @@
+/_old
+/.ipynb_checkpoints
+/bert_model_trained_full
+/input_data
+/internal_data
+/tokeniezer
+data_connl.csv
+word_list_ner.csv
+model.pth
+word_list_ner.xlsx
+ML_Text_classification_ANALYSE.ipynb
+/Text_classification_store
