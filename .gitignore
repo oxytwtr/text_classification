@@ -9,4 +9,5 @@ word_list_ner.csv
 model.pth
 word_list_ner.xlsx
 ML_Text_classification_ANALYSE.ipynb
+_Conspect.ipynb
 /Text_classification_store
